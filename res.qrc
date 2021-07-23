@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/apri_icon.png</file>
+        <file>res/nuovo_icon.png</file>
+        <file>res/salva_icon.png</file>
+        <file>res/logo.jpg</file>
+    </qresource>
+</RCC>
